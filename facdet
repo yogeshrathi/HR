@@ -1,0 +1,9 @@
+<? php 
+
+	$conn = new mysqli("localhost", "root", "" , "cms");
+
+$sql = 'SELECT * 
+		FROM sales'
+
+
+?>
